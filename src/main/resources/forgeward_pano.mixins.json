@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.forgeward.pano.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "GameRendererMixin",
+    "PauseScreenMixin",
+    "PauseScreenInvoker",
+    "MinecraftMixin",
+    "CubeMapMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

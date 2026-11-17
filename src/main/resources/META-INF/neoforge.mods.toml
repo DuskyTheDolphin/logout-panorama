@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+issueTrackerURL="https://github.com/DuskyTheDolphin/logout-panorama/issues"
+
+[[mods]]
+modId="forgeward_pano"
+version="1.0.9"
+displayName="Logout Panorama"
+authors="DuskyTheDolphin"
+displayURL="https://github.com/DuskyTheDolphin/logout-panorama"
+description='''
+When you leave a server, a panorama is taken from where you stood and shown behind the title screen. Keep the ones you
+like as favourites and cycle through them, or save any view from the pause menu. Client only; nothing is sent to the
+server.
+'''
+
+[[dependencies.forgeward_pano]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[mixins]]
+    config="forgeward_pano.mixins.json"

@@ -1,0 +1,26 @@
+{
+  "forgeward_pano.leaving": "Leaving server",
+  "forgeward_pano.saving_view": "Saving this view",
+  "forgeward_pano.save_view": "Save this view",
+  "forgeward_pano.save_view.tip": "Keep a panorama of this spot for the title screen (as a favourite)",
+  "forgeward_pano.prev": "Previous panorama",
+  "forgeward_pano.next": "Next panorama",
+  "forgeward_pano.star.on": "Favourite (click to unstar): %s",
+  "forgeward_pano.star.off": "Mark as favourite: %s",
+
+  "forgeward_pano.configuration.title": "Logout Panorama",
+  "forgeward_pano.configuration.capture": "Capture",
+  "forgeward_pano.configuration.onLeave": "Capture on leaving a server",
+  "forgeward_pano.configuration.skipPorts": "No capture when leaving these ports",
+  "forgeward_pano.configuration.faceSize": "Face size (pixels)",
+  "forgeward_pano.configuration.budgetSeconds": "Time budget (seconds)",
+  "forgeward_pano.configuration.settleFrames": "Frames per face",
+  "forgeward_pano.configuration.pauseMenuButton": "\"Save this view\" in the pause menu",
+  "forgeward_pano.configuration.library": "Library",
+  "forgeward_pano.configuration.keepPerWorld": "Captures kept per world",
+  "forgeward_pano.configuration.titleScreen": "Title screen",
+  "forgeward_pano.configuration.mode": "Shown panorama",
+  "forgeward_pano.configuration.cycleSeconds": "Cycle every (seconds, 0 = per launch)",
+  "forgeward_pano.configuration.crossfadeSeconds": "Crossfade (seconds)",
+  "forgeward_pano.configuration.controls": "Show prev / star / next"
+}
